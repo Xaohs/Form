@@ -14,8 +14,6 @@ body {
 	font-size: 32px;
 	font: arial;
 	color: #902010;
-
-}
 }
 label {
 	width: 200px;
@@ -43,5 +41,3 @@ input#tussenvoegsel{
 	padding: 5px;
 	background-color: #fff;
 }
-
-
